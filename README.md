@@ -1,17 +1,17 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Hi 👋, I'm Kevin Elihan Muñoz</h1>
-<h3 align="center">An enthusiastic software developer from Ecuador</h3>
+<h3 align="center">An enthusiastic software engineer from Ecuador</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevelmun&label=Profile%20views&color=0e75b6&style=flat" alt="kevelmun" /> </p>
 
-- 🔭 I’m currently working on **Height Estimation using StereoVision**
+- 🔭 I’m currently working as **Full Stack Developer**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on **Any type of project**
 
-- 💬 Ask me about **Angular, Boostrap, Ionic, Unity**
+- 💬 Ask me about **Angular, React, Ionic, Unity, OpenCV**
 
 - 📫 How to reach me **3lihan.m.c@gmail.com**
 
