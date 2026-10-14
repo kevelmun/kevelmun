@@ -1,184 +1,216 @@
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kevin Elihan Muñoz</h1>
-<h3 align="center">An enthusiastic software engineer from Ecuador</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" width="100%"
+    alt="Pixel art banner: kevelmun, build ship lead, mountains, code terminal">
+</picture>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kevelmun&label=Profile%20views&color=0e75b6&style=flat" alt="kevelmun" />
-</p>
+<h1>Kevin Elihan Muñoz Calva</h1>
 
-- 🔭 I’m currently working as a **Full Stack Developer**
-- 🌱 I’m currently learning **Vue**
-- 👯 I’m looking to collaborate on **any type of project**
-- 💬 Ask me about **Angular, React, Ionic, Unity, OpenCV**
-- 📫 How to reach me **3lihan.m.c@gmail.com**
-- ⚡ Fun fact **I like challenges**
+<p><b>Software engineer who builds products end to end:<br>
+mobile app, backend, infrastructure and AI tools.</b></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kevelmun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevelmun" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/elihanmc10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elihanmc10" height="30" width="40" />
-  </a>
-</p>
+<p>Co-founder and tech lead of <a href="https://sotita.com">Sotita</a> ·
+Master's in Project Management at UPV · From Ecuador</p>
 
----
+<p><b>Open to opportunities</b> in software engineering and project
+management.</p>
 
-## Languages and Tools
+<a href="https://www.linkedin.com/in/kevelmun"><img
+  src="https://img.shields.io/badge/LinkedIn-kevelmun-0A66C2?style=for-the-badge"
+  alt="LinkedIn: kevelmun"></a>
+<a href="mailto:3lihan.m.c@gmail.com"><img
+  src="https://img.shields.io/badge/Email-3lihan.m.c%40gmail.com-4C5BD4?style=for-the-badge"
+  alt="Email: 3lihan.m.c@gmail.com"></a>
+<a href="https://kevelmun.dev"><img
+  src="https://img.shields.io/badge/Web-kevelmun.dev-1B2540?style=for-the-badge"
+  alt="Website: kevelmun.dev"></a>
 
-### 1. Front-End Development
-<p align="left">
-  <!-- Base Languages -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <!-- Frameworks and Libraries -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-</p>
+<sub><a href="README.es.md">Leer en español</a></sub>
 
-### 2. Back-End Development
-<p align="left">
-  <!-- Runtime and Frameworks -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <!-- Services and Hosting -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-### 3. Mobile Development
-<p align="left">
-  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-</p>
+## <img src="assets/icons/now.svg" width="24" alt=""> Now
 
-### 4. Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  </a>
-</p>
+- **Sotita** is in beta with testers.
+  <!-- TODO: métrica (número de beta testers, descargas o usuarios activos) -->
+- **CV Adapter** is getting ready to be open source.
+- **Master's in Project Management**: learning to plan and lead the kind of
+  projects I already build.
 
-### 5. Data Science & Machine Learning
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
+## <img src="assets/icons/projects.svg" width="24" alt=""> Featured projects
 
-### 6. Tools & Others
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="assets/projects/sotita-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="assets/projects/sotita-light.svg">
+    <img src="assets/projects/sotita-light.svg" width="100%"
+      alt="Pixel art: a phone with a finance dashboard, coins and a cloud">
+  </picture>
+  <h3><a href="https://sotita.com">Sotita</a></h3>
+  <sub>Personal finance app · co-founder and tech lead · in beta ·
+  private code</sub>
+  <p><b>Problem:</b> recording an expense should not depend on having a
+  connection.</p>
+  <p><b>Solution:</b> an offline-first Flutter app. The finance core runs on
+  a local SQLite database and syncs with a self-hosted Supabase backend
+  through PowerSync. A Cloudflare Worker runs scheduled jobs (recurring
+  transactions, credit card installments, budget alerts) and sends push
+  notifications. Dev, staging and production run on Docker with Dokploy;
+  secrets live in Infisical.</p>
+  <p><code>Flutter</code> <code>Dart</code> <code>Riverpod</code>
+  <code>Drift</code> <code>Supabase</code> <code>PostgreSQL</code>
+  <code>PowerSync</code> <code>Cloudflare Workers</code>
+  <code>TypeScript</code> <code>Astro</code> <code>Docker</code>
+  <code>Dokploy</code> <code>Infisical</code></p>
+</td>
+<td width="50%" valign="top">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="assets/projects/cv-adapter-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="assets/projects/cv-adapter-light.svg">
+    <img src="assets/projects/cv-adapter-light.svg" width="100%"
+      alt="Pixel art: a CV page with highlighted keywords and a check badge">
+  </picture>
+  <h3>CV Adapter</h3>
+  <!-- TODO: enlace al repo público de CV Adapter -->
+  <sub>AI tool that tailors my CV to each job · personal tool · runs
+  locally · code coming soon</sub>
+  <p><b>Problem:</b> tailoring a CV to every job post takes time, and AI
+  tools tend to invent experience.</p>
+  <p><b>Solution:</b> all my experience lives in one structured file. For
+  each job post, Claude picks what is relevant and rewrites it in the
+  post's words. A validator checks every line against real achievements,
+  numbers and skills; if a check fails, the model gets the errors and
+  repairs the CV. The app renders a one-column DOCX and PDF, then re-reads
+  the PDF like an ATS and reports keyword coverage.</p>
+  <p><code>Python</code> <code>FastAPI</code> <code>vanilla JavaScript</code>
+  <code>Claude API (forced tool use)</code> <code>JSON Schema</code>
+  <code>python-docx</code> <code>ReportLab</code> <code>Docker</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="assets/projects/spring-validator-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="assets/projects/spring-validator-light.svg">
+    <img src="assets/projects/spring-validator-light.svg" width="100%"
+      alt="Pixel art: a code editor with lint markers next to a green leaf">
+  </picture>
+  <h3><a href="https://github.com/kevelmun/spring-boot-validator">Spring
+  Boot Syntax Validator</a></h3>
+  <sub>Side project · public code</sub>
+  <p><b>Problem:</b> moving from Laravel or Express to Spring Boot means
+  learning many conventions at once, with nobody checking your code.</p>
+  <p><b>Solution:</b> 15 exercises with three layers of feedback:
+  structural checks on the real syntax tree (JavaParser), real compilation
+  with an embedded <code>javac</code>, and a linter for common Spring
+  mistakes.</p>
+  <p><code>Java 21</code> <code>Spring Boot</code> <code>JavaParser</code>
+  <code>React</code> <code>Vite</code> <code>Tailwind CSS</code>
+  <code>CodeMirror</code> <code>Docker</code></p>
+</td>
+<td width="50%" valign="top">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="assets/projects/stereothermal-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="assets/projects/stereothermal-light.svg">
+    <img src="assets/projects/stereothermal-light.svg" width="100%"
+      alt="Pixel art: two stereo cameras and a thermal camera, a heat map">
+  </picture>
+  <h3><a href="https://github.com/kevelmun/StereoThermal">StereoThermal</a></h3>
+  <sub>Research project · computer vision</sub>
+  <p><b>Problem:</b> combining color and thermal images needs frames taken
+  at the same moment and aligned with each other.</p>
+  <p><b>Solution:</b> synchronized capture from two stereo cameras and one
+  thermal camera, plus image registration with LightGlue.</p>
+  <p><code>Python</code> <code>OpenCV</code> <code>LightGlue</code>
+  <code>Jupyter</code></p>
+</td>
+</tr>
+</table>
 
----
+## <img src="assets/icons/stack.svg" width="24" alt=""> Tech stack
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevelmun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kevelmun" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Csupabase%2Cpostgres%2Cts%2Cpython%2Cfastapi%2Cphp%2Claravel%2Cdocker%2Ccloudflare%2Creact&theme=dark">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Csupabase%2Cpostgres%2Cts%2Cpython%2Cfastapi%2Cphp%2Claravel%2Cdocker%2Ccloudflare%2Creact&theme=light">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres,ts,python,fastapi,php,laravel,docker,cloudflare,react&theme=light"
+    alt="Core stack icons; the full list is written below">
+</picture>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevelmun&show_icons=true&locale=en&theme=tokyonight" alt="kevelmun" />
-</p>
+<table>
+<tr>
+  <td><b>Mobile</b></td>
+  <td><code>Flutter</code> <code>Dart</code> <code>Riverpod</code>
+  <code>Drift</code> · also <code>Ionic</code></td>
+</tr>
+<tr>
+  <td><b>Backend and data</b></td>
+  <td><code>TypeScript</code> <code>Python</code> <code>FastAPI</code>
+  <code>PHP</code> <code>Laravel</code> <code>Java</code>
+  <code>Spring Boot</code> <code>PostgreSQL</code> <code>Supabase</code>
+  <code>PowerSync</code> <code>SQLite</code></td>
+</tr>
+<tr>
+  <td><b>Frontend</b></td>
+  <td><code>React</code> <code>Astro</code> <code>Tailwind CSS</code>
+  <code>vanilla JavaScript</code> · also <code>Angular</code></td>
+</tr>
+<tr>
+  <td><b>Infrastructure</b></td>
+  <td><code>Docker</code> <code>Dokploy</code>
+  <code>Cloudflare Workers</code> <code>Infisical</code> <code>Caddy</code>
+  <code>Nginx</code></td>
+</tr>
+<tr>
+  <td><b>AI and computer vision</b></td>
+  <td><code>Claude API</code> <code>Ollama</code> <code>Azure Speech</code>
+  <code>OpenCV</code> <code>Open3D</code> <code>LightGlue</code></td>
+</tr>
+<tr>
+  <td><b>Games</b></td>
+  <td><code>Godot</code> <code>Unity</code></td>
+</tr>
+</table>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevelmun&theme=tokyonight" alt="kevelmun" />
-</p>
+## <img src="assets/icons/beyond.svg" width="24" alt=""> Beyond code
+
+- **How I work:** at Sotita, every feature starts as a numbered spec with its
+  decisions written down, then ships as a small vertical slice.
+- **Problems I have not solved yet are the fun part.** Example: the Spring
+  Boot validator compiles code that uses Lombok without Lombok's annotation
+  processor. It generates the missing methods in the syntax tree instead.
+- **More research:** turning 3D point clouds into image datasets for fruit
+  ripeness ([Fruit-Ripeness](https://github.com/kevelmun/Fruit-Ripeness)) and
+  a voice assistant with Azure Speech and Ollama
+  ([VoiceChat-AzureOllamaAgent](https://github.com/kevelmun/VoiceChat-AzureOllamaAgent)).
+- **Games:** [Scape from the Dark](https://kevelmun.itch.io/scape-from-the-dark),
+  a university team game made in Godot.
+
+## <img src="assets/icons/contact.svg" width="24" alt=""> Contact
+
+The fastest way to reach me is email:
+[3lihan.m.c@gmail.com](mailto:3lihan.m.c@gmail.com). You can also find me on
+[LinkedIn](https://www.linkedin.com/in/kevelmun) and at
+[kevelmun.dev](https://kevelmun.dev).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="">
+</picture>
